@@ -11,4 +11,5 @@ int main(){
 	cout << "A / B = " << a / b << '\n';
 	cout << "Maximum = " << max(a, b) << '\n';
 	cout << "Minimum = " << min(a, b) << '\n';
+	system("pause");
 }

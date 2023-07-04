@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-	cout << "My project\n";
-	cout << "Hello world!";
+	cout <<  "Enter A and B: ";
+	int a, b;
+	cin >> a >> b;
 }
